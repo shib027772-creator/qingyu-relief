@@ -1,0 +1,9 @@
+_sites_source
+dist
+.openai
+.codex
+.agents
+.pnpm-store
+*.png
+design-qa.md
+scripts/create_product_poster*.py

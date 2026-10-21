@@ -1,0 +1,32 @@
+node_modules/
+dist/
+.npm-cache/
+.pnpm-store/
+
+# local env / secrets
+.env
+.env.local
+.env.*.local
+.vercel/
+
+# logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# system / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# generated portfolio / temporary artifacts
+_github_upload_qingyu/
+*.pptx.inspect.ndjson
+轻愈_*.pptx
+轻愈_*.png
+ppt_build_role/
+ppt_render_tmp/
+*.zip
